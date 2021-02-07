@@ -1,4 +1,4 @@
-token="1634718632:AAGIOni6UbdhGPUD4gKiE8NQ8rkMwWrih88"
+token=""
 
 quron="https://t.me/barcha_kitoblar_uz/8"
 navoiy="\nHayrat-ul Abror\n https://t.me/barcha_kitoblar_uz/21\nFarhod va shirin\n https://t.me/barcha_kitoblar_uz/23\n\n \nLayli va Majnun\n https://t.me/barcha_kitoblar_uz/20\nSabbai Sayyor\n https://t.me/barcha_kitoblar_uz/22\nSaddi Iskandariy\n https://t.me/barcha_kitoblar_uz/24"
